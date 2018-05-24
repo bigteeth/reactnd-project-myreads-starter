@@ -29,7 +29,7 @@
     width: 50px;
     height: 53px;
     background: white;
-    background-image: url('./icons/arrow-back.svg');
+    background-image: url('../icons/arrow-back.svg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: 28px;
